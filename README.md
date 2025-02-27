@@ -29,4 +29,4 @@ To get this project up and running locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/Caramelizeed/QrcodeChibi.git
